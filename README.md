@@ -52,50 +52,63 @@
 
 ---
 
-## 🚀 Featured AI/ML Projects
+## 🚀 Featured AI/ML Projects <span style="color:#FF4500;">(Key Demos of My Work)</span>
 
 ### 🌟 LLM-Powered Image Caption & Translation Generator
-<details>
-<summary><b>Click for Project Details ⬇️</b></summary>
-  
 - **What it is:** A sophisticated **Streamlit web application** that generates descriptive captions for images and translates them into multiple Indian languages.
 - **Key Technology:** Integrated **OpenAI GPT-3.5 Turbo** to leverage its multilingual capabilities.
 - **Impact:** Showcases full-stack Generative AI application development.
 - **Tools:** **Python, Streamlit, OpenAI APIs, Computer Vision Libraries**.
-- ****
-  
-[**View Repository**](https://github.com/lomadasivaramireddy/LLM-Powered-Image-Caption-Translation-Generator)
-</details>
+- 🔗 **[View Repository](https://github.com/lomadasivaramireddy/LLM-Powered-Image-Caption-Translation-Generator)**
 
----
+<br/>
 
 ### 💚 Sleep Analysis Prediction for Mental & Physical Health
-<details>
-<summary><b>Click for Project Details ⬇️</b></summary>
-
 - **What it is:** Predictive modeling project focused on assessing sleep quality's impact on health.
 - **Performance:** Achieved impressive prediction accuracy of **~97%** using optimized **Random Forest and Ridge Regression models**.
 - **Methodology:** Comprehensive **EDA, feature engineering, and hyperparameter tuning** were crucial.
 - **Tools:** **Python, Scikit-learn, Pandas, Matplotlib/Seaborn**.
-  
-[**View Repository**](https://github.com/lomadasivaramireddy/Sleep-Quality-Prediction)
-</details>
+- 🔗 **[View Repository](https://github.com/lomadasivaramireddy/Sleep-Quality-Prediction)**
 
----
+<br/>
 
 ### 🧠 Innovations in Stroke Identification (Advanced Medical AI)
-<details>
-<summary><b>Click for Project Details ⬇️</b></summary>
-
 - **What it is:** An advanced deep learning project for early and accurate stroke detection.
 - **Core Model:** Developed a highly effective **GA-BiLSTM (Genetic Algorithm-Bidirectional LSTM) model**, yielding an accuracy of **~96.5%**.
 - **Unique Approach:** Combined **CNN-based feature extraction** with a **genetic algorithm for optimal feature selection**.
-- **Benchmarked Against:** RF, SVM, ANN, and DNN to validate superior performance.
 - **Tools:** **Python, TensorFlow, Keras, CNN, BiLSTM**.
-  
-[**View Repository**](https://github.com/lomadasivaramireddy)
-</details>
+- 🔗 **[View Repository](https://github.com/lomadasivaramireddy)**
 
+---
+<h3 align="center">Project Summary Table</h3>
+<p align="center">
+<table>
+  <tr>
+    <th>🚀 Project</th>
+    <th>📝 Key Achievement</th>
+    <th>🛠 Tech Stack</th>
+    <th>🔗 Links</th>
+  </tr>
+  <tr>
+    <td>🖼️ Image Caption & Translation</td>
+    <td>LLM-powered multilingual captions</td>
+    <td>Python, Streamlit, OpenAI</td>
+    <td><a href="https://github.com/lomadasivaramireddy/LLM-Powered-Image-Caption-Translation-Generator">Repo</a></td>
+  </tr>
+  <tr>
+    <td>😴 Sleep Quality Prediction</td>
+    <td>~97% accuracy with ML models</td>
+    <td>Python, Sklearn</td>
+    <td><a href="https://github.com/lomadasivaramireddy/Sleep-Quality-Prediction">Repo</a></td>
+  </tr>
+  <tr>
+    <td>🧠 Stroke Identification</td>
+    <td>GA-BiLSTM for 96.5% detection</td>
+    <td>Python, TensorFlow, CNN</td>
+    <td><a href="https://github.com/lomadasivaramireddy">Repo</a></td>
+  </tr>
+</table>
+</p>
 ---
 
 ## 🏆 Standout Achievements
