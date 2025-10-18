@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
----
 
 ### 🧠 Artificial Intelligence, Machine Learning & Data Science
 <p align="center">
@@ -43,7 +42,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
----
 
 ### 📊 Data Processing, Analysis & Visualization
 <p align="center">
