@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me & My Passion
+## 🌟 About Me & My Passion    [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.lovable.app/) ]
 
 - 🎓 **B.Tech in Computer Science & Engineering (Data Science)** from RGMCET (2022–2026) | CGPA: **8.14**
 - 💼 **Freelance Coding Expert at Outlier AI** specializing in **RLHF, LLM Evaluation, and Prompt Optimization**.
