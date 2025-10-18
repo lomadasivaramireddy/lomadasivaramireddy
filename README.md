@@ -178,16 +178,12 @@
   <a href="https://www.linkedin.com/in/lomadasivaramireddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /></a>
   <a href="https://leetcode.com/u/sivalomada22/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=FFA116" /></a>
   <a href="https://github.com/lomadasivaramireddy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
- <a href="https://wa.me/919346493592" target="_blank"> 
+ <a href="https://wa.me/917288948632" target="_blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  <a href="https://www.hackerrank.com/your_hackerrank_username" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
-<a href="https://auth.geeksforgeeks.org/user/your_gfg_username/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-  </a>
-
   </p>
 <h3 align="center" style="color:#00BFFF;">
   Let's build the future of AI together! 🤝 I'm open to collaborations in AI, ML & Generative AI projects.
