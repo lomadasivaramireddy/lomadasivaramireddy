@@ -20,7 +20,7 @@
 
 ## 🛠️ Expertise & Tech Stack
 
-### 💻 Programming & Scripting Languages <span style="color:#FF4500;">(The Foundation)</span>
+### 💻 Programming & Scripting Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🧠 Artificial Intelligence, Machine Learning & Data Science <span style="color:#00BFFF;">(The Core Engine)</span>
+### 🧠 Artificial Intelligence, Machine Learning & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FFC300?style=for-the-badge&logo=scikit-learn&logoColor=black" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 Data Processing, Analysis & Visualization <span style="color:#2ECC71;">(Data Insight Tools)</span>
+### 📊 Data Processing, Analysis & Visualization
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 🧩 Frameworks, Tools & Platforms <span style="color:#9B59B6;">(The Developer Toolkit)</span>
+### 🧩 Frameworks, Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -72,32 +72,32 @@
 
 ---
 
-## 🚀 Featured AI/ML Projects <span style="color:#FF4500;">(Key Demos of My Work)</span>
+## 🚀 Featured AI/ML Projects
 
-### 🌟 LLM-Powered Image Caption & Translation Generator
+### 🌟 LLM-Powered Image Caption & Translation Generator  [🔗 **[View Repo](https://github.com/lomadasivaramireddy/LLM-Powered-Image-Caption-Translation-Generator)**]
+
 - **What it is:** A sophisticated **Streamlit web application** that generates descriptive captions for images and translates them into multiple Indian languages.
 - **Key Technology:** Integrated **OpenAI GPT-3.5 Turbo** to leverage its multilingual capabilities.
 - **Impact:** Showcases full-stack Generative AI application development.
 - **Tools:** **Python, Streamlit, OpenAI APIs, Computer Vision Libraries**.
-- 🔗 **[View Repo](https://github.com/lomadasivaramireddy/LLM-Powered-Image-Caption-Translation-Generator)**
 
 <br/>
 
-### 💚 Sleep Analysis Prediction for Mental & Physical Health
+### 💚 Sleep Analysis Prediction for Mental & Physical Health  [🔗 **[View Repo](https://github.com/lomadasivaramireddy/Sleep-Quality-Prediction)**]
+
 - **What it is:** Predictive modeling project focused on assessing sleep quality's impact on health.
 - **Performance:** Achieved impressive prediction accuracy of **~97%** using optimized **Random Forest and Ridge Regression models**.
 - **Methodology:** Comprehensive **EDA, feature engineering, and hyperparameter tuning** were crucial.
 - **Tools:** **Python, Scikit-learn, Pandas, Matplotlib/Seaborn**.
-- 🔗 **[View Repo](https://github.com/lomadasivaramireddy/Sleep-Quality-Prediction)**
 
 <br/>
 
-### 🧠 Innovations in Stroke Identification (Advanced Medical AI)
+### 🧠 Innovations in Stroke Identification  [🔗 **[View Repo](https://github.com/lomadasivaramireddy)**]
 - **What it is:** An advanced deep learning project for early and accurate stroke detection.
 - **Core Model:** Developed a highly effective **GA-BiLSTM (Genetic Algorithm-Bidirectional LSTM) model**, yielding an accuracy of **~96.5%**.
 - **Unique Approach:** Combined **CNN-based feature extraction** with a **genetic algorithm for optimal feature selection**.
 - **Tools:** **Python, TensorFlow, Keras, CNN, BiLSTM**.
-- 🔗 **[View Repo](https://github.com/lomadasivaramireddy)**
+
 
 ---
 <h3 align="center">Project Summary Table</h3>
@@ -140,7 +140,7 @@
 
 ---
 
-## 📑 Professional Certifications (Validating Expertise)
+## 📑 Professional Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF9900" />
@@ -154,11 +154,8 @@
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=1F2022&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=1F2022&hide_border=true" height="150" alt="Top Languages"/>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=1F2022&hide_border=true&rank_icon=github" height="120" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=1F2022&hide_border=true" height="120" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lomadasivaramireddy&theme=gotham&hide_border=true&stroke=00BFFF&background=1F2022&ring=FF4500&fire=FF4500" height="120" alt="GitHub Streak"/>
 </p>
 
