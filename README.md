@@ -170,7 +170,7 @@
 
 <p align="center">
     <a href="https://lsgr-portfolio-pulse.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/yourresumeid/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1R-1LUutzfzAyBay-zaFHNKfZKad49YWR/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume Badge" />
   </a>
   <a href="mailto:sivaramireddylomada@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /></a>
