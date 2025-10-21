@@ -180,7 +180,7 @@
  <a href="https://wa.me/917288948632" target="_blank"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
- <a href="https://www.hackerrank.com/your_hackerrank_username" target="_blank">
+ <a href="https://www.hackerrank.com/profile/sivalomada22" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
   </p>
