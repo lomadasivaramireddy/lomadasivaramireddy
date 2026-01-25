@@ -155,9 +155,12 @@
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&hide_border=true" height="120" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&hide_border=true" height="120" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=lomadasivaramireddy&theme=gotham&hide_border=true" height="120" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&hide_border=true" height="130"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lomadasivaramireddy&label=Profile%20Views%20(Recruiter%20Check)&color=00BFFF&style=for-the-badge"/>
 </p>
 
 <p align="center">
