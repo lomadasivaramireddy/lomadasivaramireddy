@@ -155,9 +155,9 @@
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=1F2022&hide_border=true&rank_icon=github" height="120" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=1F2022&hide_border=true" height="120" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lomadasivaramireddy&theme=gotham&hide_border=true&stroke=00BFFF&background=1F2022&ring=FF4500&fire=FF4500" height="120" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lomadasivaramireddy&show_icons=true&theme=gotham&hide_border=true" height="120" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomadasivaramireddy&layout=compact&theme=gotham&hide_border=true" height="120" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=lomadasivaramireddy&theme=gotham&hide_border=true" height="120" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
