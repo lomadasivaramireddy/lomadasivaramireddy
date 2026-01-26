@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&size=24&center=true&vCenter=true&width=800&lines=🚀+Aspiring+AI%2FML+Engineer+&amp;+Data+Scientist;🧠+Passionate+about+LLMs,+Generative+AI,+&amp;+Healthcare+Analytics;💻+Python+•+SQL+•+ML+•+DL+•+LLMs+•+Outlier+AI+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&size=24&center=true&vCenter=true&width=800&lines=🚀+Aspiring+AI%2FML+Engineer+%26+Data+Scientist;🧠+Passionate+about+LLMs%2C+Generative+AI+%26+Healthcare+Analytics;💻+Python+•+SQL+•+ML+•+DL+•+LLMs+•+Outlier+AI+Expert" />
 </h3>
 
 ---
