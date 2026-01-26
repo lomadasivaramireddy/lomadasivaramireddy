@@ -10,7 +10,7 @@
 
 ## 🌟 About Me & My Passion    [ 🌐 [Visit My Portfolio]() ]
 
-- 🎓 **B.Tech in Computer Science & Engineering (Data Science)** from RGMCET (2022–2026) | CGPA: **8.14**
+- 🎓 **B.Tech in Computer Science & Engineering (Data Science)** from RGMCET (2022–2026) | CGPA: **8.28**
 - 💼 **Freelance Coding Expert at Outlier AI** specializing in **RLHF, LLM Evaluation, and Prompt Optimization**.
 - 💡 **Core Interests:** Advancing the fields of **LLMs, Generative AI, and Healthcare Analytics**.
 - 🌱 **Currently Diving Into:** **LLM Agents, Computer Vision, and Reinforcement Learning** — always learning!
